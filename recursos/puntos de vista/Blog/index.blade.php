@@ -44,11 +44,11 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="single.html">Que es el lenguaje PERl?</a></h2>
+										<h2><a href="{{route('significa')}}">Que es el lenguaje PERl?</a></h2>
 										<p></p>
 									</div>
 								</header>
-								<a href="single.html" class="image featured"><img src="images/codigo.jpg" alt="" /></a>
+								<a href="{{route('significa')}}'" class="image featured"><img src="images/codigo.jpg" alt="" /></a>
 								<p></p>
 								<footer>
 									<ul class="actions">
